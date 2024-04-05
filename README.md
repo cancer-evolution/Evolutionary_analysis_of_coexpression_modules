@@ -9,3 +9,5 @@ Figures correspond to those in:
 Manuscript authors: Anna S Trigos, Felicia Bongiovanni, Magnus Zethoven, Richard Tothill, Richard Pearson, Tony Papenfuss, David L Goode
 
 You can access the bioRxiv manuscript here: https://www.biorxiv.org/content/10.1101/2023.04.20.537744v1
+
+License: GPL-3.0
